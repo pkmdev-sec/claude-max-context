@@ -1,0 +1,9 @@
+{
+  "name": "200k",
+  "description": "200K Context (Standard) — 184K usable, compaction at 92%",
+  "model": "opus",
+  "context_window": 200000,
+  "compact_pct": 92,
+  "output_tokens": 16384,
+  "blocking_limit": 199000
+}

@@ -1,0 +1,9 @@
+{
+  "name": "1m",
+  "description": "1M Context (Opus [1m]) — 950K usable, compaction at 95%",
+  "model": "opus[1m]",
+  "context_window": 1000000,
+  "compact_pct": 95,
+  "output_tokens": 32768,
+  "blocking_limit": 999000
+}

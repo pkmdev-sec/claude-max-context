@@ -1,0 +1,9 @@
+{
+  "name": "conservative",
+  "description": "Conservative (<200K) — 136K usable, compaction at 85%",
+  "model": "sonnet",
+  "context_window": 200000,
+  "compact_pct": 85,
+  "output_tokens": 16384,
+  "blocking_limit": 160000
+}
